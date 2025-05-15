@@ -74,6 +74,7 @@ h2 {
 }
 
 .botao:hover {
+    cursor: pointer;
     transform: translateY(-3px);
     background-color: #f4d364;
 }
